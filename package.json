@@ -1,0 +1,10 @@
+{
+  "name": "weaved",
+  "description": "Plugin to control a weaved device!",
+  "version": "0.1.0",
+  "private": "true",
+  "main": "weaved.js",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
