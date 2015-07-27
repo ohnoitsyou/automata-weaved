@@ -2,6 +2,8 @@
 
 Plugin for my Automata framework for controlling a weaved device
 
+It has basic on/off control of the embedded relay.
+
 # NOTES
 
 To use this you will need to add a configuration option in the main automata config.
